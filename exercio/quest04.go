@@ -10,7 +10,7 @@ func main(){
 	fmt.Println("Entre com 4 notas bimestrais: ")
 	fmt.Scan(&a, &b, &c, &d)
 	media := (a+b+c+d)/4
-	fmt.Println("A media é: ", media)
+	fmt.Println("A media :  ", media)
 }
 
 
