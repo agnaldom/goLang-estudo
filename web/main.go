@@ -5,6 +5,12 @@ import (
 	"net/http"
 )
 
+type Post struct {
+	Id    int
+	Title string
+	Body  string
+}
+
 func main() {
 	// Difinir rota
 	http.HandleFunc("/", func(w http.ResponseWriter, r *http.Request) {
