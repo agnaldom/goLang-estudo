@@ -18,7 +18,9 @@ func main() {
 		// Iniciando template
 		t := template.Must(template.ParseFiles("templates/index.html"))
 		// Executar o template
-		t.ExecuteTemplate(w, "index.html", nill)
+		if err := t.ExecuteTemplate(w, "index.html", nil); err != nil {
+			http.Error(w, err.Error(), http.StatusInternalServerError)
+		}
 	})
 
 	fmt.Println(http.ListenAndServe(":8080", nil))
