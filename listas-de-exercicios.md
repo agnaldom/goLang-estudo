@@ -1,8 +1,8 @@
 # LISTAS DE EXERCÍCIOS
 
 1. Execicios com Inteiros
-    - [] Dada um sequência de números interios não nulos, seguida por 0, imprimir seus quadrados.
-    - [] Dado um número inteiro positivo n, calcular a soma dos n primeiros números inteiros positivos.
+    - [x] Dada um sequência de números interios não nulos, seguida por 0, imprimir seus quadrados.
+    - [ ] Dado um número inteiro positivo n, calcular a soma dos n primeiros números inteiros positivos.
     3. Dado um número inteiro positivo n, imprimir os n primeiros naturais ímpares.
         
         Exemplo: Para n=4 a saída deverão ser 1,3,5,7
