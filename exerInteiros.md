@@ -20,8 +20,7 @@
    Dado um inteiro não negativo n, verificar se n é triangular.
 11. - [ ] Dado um inteiro positivo n, verificar se n é primo. 
 12. - [ ] Dados dois números inteiros positivos, determinar o máximo divisor comum entre eles usando o algoritmo de Euclides.
-    Exemplo:            | 1 | 1 | 1 | 2
-                    --------------------
+    Exemplo:         
+                        | 1 | 1 | 1 | 2
                      24 |15 | 9 | 6 | 3  = mdc(24,15)
-                   ---------------------
                       9 | 6 | 3 | 0 |
