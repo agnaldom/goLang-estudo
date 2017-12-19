@@ -23,6 +23,7 @@
 12. - [ ] Dados dois números inteiros positivos, determinar o máximo divisor comum entre eles usando o algoritmo de Euclides.
 
     Exemplo:         
+
                         | 1 | 1 | 1 | 2
-                     24 |15 | 9 | 6 | 3  = mdc(24,15)
+                     24 |15 | 9 | 6 | 3 = mdc(24,15)
                       9 | 6 | 3 | 0 |
