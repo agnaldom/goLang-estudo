@@ -13,7 +13,7 @@ Algoritmos em  Go  desenvolvidos como estudo de Algoritmos e Estruturas de Dados
 | 7  | [Busca Sequencial][7]                     | Go | 
 | 8  | [Busca Sequencial Recursiva][8]           | Go | 
 | 9  | [Busca utilizando Sentinela][9]           | Go | 
-| 10 | [Caixeiro Viajante][10]                   | [Go](/caixeiroviajante/caixeiroviajante.go) |
+| 10 | [Caixeiro Viajante][10]                   | [Go](caixeiroviajante/caixeiroviajante.go) |
 | 11 | [Ciclo Hamiltoniano][11]                  | Go |
 | 12 | [Componentes Conexos][12]                 | Go |
 | 13 | [Exponenciação][13]                       | [Go](/exponenciacao/exponenciacao.go) | [Ruby](/Ruby/Exponenciacao.rb) |
@@ -31,29 +31,30 @@ Algoritmos em  Go  desenvolvidos como estudo de Algoritmos e Estruturas de Dados
 | 25 | [Lista Sequencial Ordenada][]             | Go |
 | 26 | [Máximo Recursivo][26]                    | Go | 
 | 27 | [Mínimo e Máximo Iterativo][27]           | Go | 
-| 28 | [Mínimo e Máximo Recursivo][28]           | [Go](/GoLang/maximominimo/MaximoMinimo.go) |
-| 29 | Mínimo e Máximo Divisão e Conquista       | [Go](/GoLang/maximominimo/MaximoMinimo.go) |
+| 28 | [Mínimo e Máximo Recursivo][28]           | [Go](/maximominimo/MaximoMinimo.go) |
+| 29 | Mínimo e Máximo Divisão e Conquista       | [Go](/maximominimo/MaximoMinimo.go) |
 | 30 | [Passeio do Cavalo][30]                   | Go | 
 | 31 | [Pilha][31]                               | Go | 
 | 32 | Pilha Ligada Dinâmica                     | Go | 
-| 33 | [Torre de Hanói][33]                      | [Go](/GoLang/hanoi/hanoi.go) | 
+| 33 | [Torre de Hanói][33]                      | [Go](/hanoi/hanoi.go) | 
 
-================================================================================
+
 |    | Algoritmos de Ordenação                   | Go |
 |----|-------------------------------------------|----|
-| 34 | [Bubble Sort][34]                         | [Go](/GoLang/bubbleSort/bubbleSort.go) |
-| 35 | [Cocktail Sort][35]                       | [Go](/GoLang/cocktailsort/cocktailsort.go) | 
-| 36 | [Comb Sort][36]                           | [Go](/GoLang/combsort/combsort.go) | 
-| 37 | [Counting Sort][37]                       | [Go](/GoLang/countingsort/countingsort.go) |
-| 38 | [Gnome Sort][38]                          | [Go](/GoLang/gnomesort/gnomesort.go) |
-| 39 | [Heapsort][39]                            | [Go](/GoLang/heapsort/heapsort.go) | 
-| 40 | [Insertion Sort][40]                      | [Go](/GoLang/insertionsort/insertionsort.go) | 
+| 34 | [Bubble Sort][34]                         | [Go](/bubbleSort/bubbleSort.go) |
+| 35 | [Cocktail Sort][35]                       | [Go](/cocktailsort/cocktailsort.go) | 
+| 36 | [Comb Sort][36]                           | [Go](/combsort/combsort.go) | 
+| 37 | [Counting Sort][37]                       | [Go](/countingsort/countingsort.go) |
+| 38 | [Gnome Sort][38]                          | [Go](/gnomesort/gnomesort.go) |
+| 39 | [Heapsort][39]                            | [Go](/heapsort/heapsort.go) | 
+| 40 | [Insertion Sort][40]                      | [Go](/insertionsort/insertionsort.go) | 
 | 41 | Insertion Sort Recursivo                  | Go |
-| 42 | [Merge Sort][42]                          | [Go](/GoLang/mergesort/mergesort.go) | 
-| 43 | [Quicksort][43]                           | [Go](/GoLang/quicksort/quicksort.go) | 
-| 44 | [Radix Sort][44]                          | [Go](/GoLang/radixsort/radixsort.go) | 
-| 45 | [Selection Sort][45]                      | [Go](/GoLang/selectionsort/selectionsort.go) | 
-| 46 | [Shell Sort][46]                          | [Go](/GoLang/shellsort/shellsort.go) | 
+| 42 | [Merge Sort][42]                          | [Go](/mergesort/mergesort.go) | 
+| 43 | [Quicksort][43]                           | [Go](/quicksort/quicksort.go) | 
+| 44 | [Radix Sort][44]                          | [Go](/radixsort/radixsort.go) | 
+| 45 | [Selection Sort][45]                      | [Go](/selectionsort/selectionsort.go) | 
+| 46 | [Shell Sort][46]                          | [Go](/shellsort/shellsort.go) | 
+
 
 |    | Extra                               | Go | 
 |----|-------------------------------------|----|
