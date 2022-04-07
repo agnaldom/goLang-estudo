@@ -10,22 +10,26 @@
 
 ## Other links
 
-[Cybersecurity](https://www.youtube.com/playlist?list=PLy_6D98if3UINAba67DnhO4055OA6viSb)
+- [Cybersecurity](https://www.youtube.com/playlist?list=PLy_6D98if3UINAba67DnhO4055OA6viSb)
 
-[Golang Backend Masterclass](https://www.youtube.com/playlist?list=PLy_6D98if3ULEtXtNSY_2qN21VCKgoQAE)
+- [Golang Backend Masterclass](https://www.youtube.com/playlist?list=PLy_6D98if3ULEtXtNSY_2qN21VCKgoQAE)
 
-[GRPC complete course](https://www.youtube.com/playlist?list=PLy_6D98if3UJd5hxWNfAqKMr15HZqFnqf)
+- [GRPC complete course](https://www.youtube.com/playlist?list=PLy_6D98if3UJd5hxWNfAqKMr15HZqFnqf)
 
-[Rehearsing Golang, gRPC but with MongoDB and Kubernetes](https://www.youtube.com/watch?v=f6KG5eqOPFw)
+- [Rehearsing Golang, gRPC but with MongoDB and Kubernetes](https://www.youtube.com/watch?v=f6KG5eqOPFw)
 
-[Fullstack App 1](https://www.youtube.com/watch?v=fW5rxeFTRac&list=PLjcZkIZoC0IflwnNLf5BBrpKoHi684fl-&index=2)
+- [Fullstack App 1](https://www.youtube.com/watch?v=fW5rxeFTRac&list=PLjcZkIZoC0IflwnNLf5BBrpKoHi684fl-&index=2)
 
-[Fullstack App 2](https://www.youtube.com/watch?v=4YnzS14UYcQ)
+- [Fullstack App 2](https://www.youtube.com/watch?v=4YnzS14UYcQ)
 
-[Fullstack App 3](https://www.youtube.com/playlist?list=PLnrGn4P6C4P6yasdEJnEUhueTjCGXGuFe)
+- [Fullstack App 3](https://www.youtube.com/playlist?list=PLnrGn4P6C4P6yasdEJnEUhueTjCGXGuFe)
 
-- Getting Started
+## Books
+
+- [Go books](https://www.goodreads.com/book/show/35724605)
+
+* Getting Started
   - Environment Setup
-- A Simple Start
+* A Simple Start
   - Boring OI' Hello World
   - Go packages
