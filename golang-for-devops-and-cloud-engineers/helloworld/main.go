@@ -7,5 +7,5 @@ import (
 
 func main() {
 	args := os.Args
-	fmt.Printf("Hello World\nos.Args: %v\nArguments: %v\n", args, args[1])
+	fmt.Printf("Hello World\nos.Args: %v\nArguments: %v\n", args, args[1:len(args)])
 }
