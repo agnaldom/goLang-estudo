@@ -1,0 +1,9 @@
+package iteration
+
+func Repeat(character string) string {
+	return ""
+}
+
+func main() {
+	Repeat("")
+}
